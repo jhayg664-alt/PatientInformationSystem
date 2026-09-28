@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gutierrez_PatientInformationSystem</string>
+    <string name="nav_open">Open navigation drawer</string>
+    <string name="nav_close">Close navigation drawer</string>
+
+    <string-array name="patient_types">
+        <item>Select Patient Type</item>
+        <item>Walk-in</item>
+        <item>Follow-up</item>
+        <item>Referral</item>
+    </string-array>
+
+</resources>
+
