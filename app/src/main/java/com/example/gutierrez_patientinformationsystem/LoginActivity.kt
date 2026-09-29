@@ -12,8 +12,7 @@ class LoginActivity : AppCompatActivity() {
         "Nurse Charlie Kirk",
         "Nurse Lebron James",
         "Clerk Michael Jordan",
-        "Clerk Jeffrey Epstein",
-        "In-Charge Jeffrey Dahmer"
+        "Clerk Jhay A. Gutierrez",
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
